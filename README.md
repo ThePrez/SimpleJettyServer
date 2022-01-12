@@ -1,5 +1,5 @@
 # SimpleJettyServer
-Very simple Eclipse Jetty server (serves static files only)
+Very simple Eclipse Jetty server (serves static files only). Java 11 is required.
 
 ```fortran
 Usage: java -jar simplejettyserver.jar [options]
